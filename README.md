@@ -1,15 +1,5 @@
-# test
-# test
+# My test project
 
-Add this string
-Add one more string
-One more string
-4 string
-5 string
-6 string
+This is my test project.
 
 
-10
-11
-12
-13
